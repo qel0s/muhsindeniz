@@ -26,7 +26,7 @@
         👨🏻&zwj;💻 &nbsp;About Me
     </h3>
     <p dir="auto">
-        <a
+        <a href="https://www.linkedin.com/in/muhsiindeniiz/"
             target="_blank"
             rel="noopener noreferrer"
             href="https://camo.githubusercontent.com/2d6f955f511be65ceb34316acf994f5a099704ec20ac1af4d9a8541bcaf766d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f766168652d6e696b6f67686f7379616e"
