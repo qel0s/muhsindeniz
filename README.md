@@ -138,7 +138,7 @@
     </p>
     
     
-   <h3 dir="auto">
+   <h4 dir="auto">
         <a id="user-content--tech-stack" class="anchor" aria-hidden="true" href="#-tech-stack">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path
@@ -148,7 +148,7 @@
             </svg>
         </a>
         <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;Tech Stack
-    </h3>
+    </h4>
     
    <p dir="auto">Technologies that I've been learning and I've picked up along my programming journey.</p>
     <h4 dir="auto">
