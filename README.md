@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-        <h2 dir="auto">
+        <h1 dir="auto">
             <a id="user-content------hi-there-i-am-vahe---" class="anchor" aria-hidden="true" href="#-----hi-there-i-am-vahe---">
                 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                     <path
@@ -12,7 +12,7 @@
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/vahe-nikoghosyan/vahe-nikoghosyan/blob/main/hi.gif">
                 <img src="https://github.com/vahe-nikoghosyan/vahe-nikoghosyan/raw/main/hi.gif" width="30px" style="max-width: 100%;" />
             </a>
-        </h2>
+        </h1>
     </div>
     <h3 dir="auto">
         <a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me">
